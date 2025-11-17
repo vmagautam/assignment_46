@@ -1,25 +1,34 @@
 # Client Management Backend
 
-## Setup Instructions
+## Getting Started
 
-1. Install dependencies:
-```bash
-npm install
-```
+1. **Install Dependencies for both frontend and backend folder**
 
-2. Configure database:
-   - Update `.env` with your PostgreSQL credentials
-   - Create database: `createdb client_management`
+   ```bash
+   npm install
+   ```
 
-3. Run migrations:
-```bash
-npm run migrate
-```
+2. **Start Development Server for frontend**
 
-4. Start server:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
+
+3. **Build for Production for frontend**
+   ```bash
+   npm run build
+   ```
+
+**Copy the build folder to the backend folder**
+
+4. **Start Development Server for backend**
+
+   ```bash
+   npm run migrate
+   npm run seed:run
+   npm start
+   ```
+
 
 ## API Endpoints
 
