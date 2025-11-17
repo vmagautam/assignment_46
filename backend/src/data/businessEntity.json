@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Proprietorship",
+    "description": "Single-owner business without separate legal entity."
+  },
+  {
+    "id": 2,
+    "name": "Partnership Firm",
+    "description": "Business owned by two or more partners registered under the Partnership Act, 1932."
+  },
+  {
+    "id": 3,
+    "name": "LLP (Limited Liability Partnership)",
+    "description": "Hybrid structure with limited liability and partnership flexibility."
+  },
+  {
+    "id": 4,
+    "name": "Private Limited Company",
+    "description": "Separate legal entity registered under Companies Act, owned by shareholders."
+  },
+  {
+    "id": 5,
+    "name": "Public Limited Company",
+    "description": "Company that can raise capital from the public; strictly regulated."
+  },
+  {
+    "id": 6,
+    "name": "One Person Company (OPC)",
+    "description": "Single-member company structure with limited liability benefits."
+  },
+  {
+    "id": 7,
+    "name": "NGO / Section 8 Company",
+    "description": "Non-profit company formed for social or charitable purposes."
+  },
+  {
+    "id": 8,
+    "name": "HUF (Hindu Undivided Family)",
+    "description": "Family-based business entity recognized under Hindu law."
+  },
+  {
+    "id": 9,
+    "name": "Trust",
+    "description": "Entity managed by trustees for public or private benefit."
+  },
+  {
+    "id": 10,
+    "name": "Society",
+    "description": "Association of individuals, usually for charitable or cultural activities."
+  }
+]
